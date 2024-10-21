@@ -1,5 +1,6 @@
 {
   "name": "react-native-pitchy",
+  "private": true,
   "version": "1.0.0",
   "description": "A simple pitch detection module for React Native",
   "source": "./src/index.tsx",
